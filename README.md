@@ -1,5 +1,7 @@
 # Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments
 
+**Note:** Tweaked from original script to result in a more usable end state; changes will be documented in Tweaks.md
+
 **Note:** This script should work for most, if not all, systems without issue. While [@SimeonOnSecurity](https://github.com/simeononsecurity) creates, reviews, and tests each repo intensively, we can not test every possible configuration nor does [@SimeonOnSecurity](https://github.com/simeononsecurity) take any responsibility for breaking your system. If something goes wrong, be prepared to submit an [issue](../../issues). Do not run this script if you don't understand what it does. It is your responsibility to review and test the script before running it.
 
 ## Introduction:
